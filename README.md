@@ -3,13 +3,23 @@
 - 🏤 Cursando Full-Stack em Python no Instituto Proa
 - 📌 Em constante evolução.
 
-## 👾 Status
+## 👾 Estatísticas
 
-![Victor Varjão GitHub stats](https://github-readme-stats.vercel.app/api?username=victorcaito&show_icons=true&theme=dracula)
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victorcaito&show_icons=true&theme=dracula&hide_border=true&bg_color=1a1b27&title_color=FF6B9D&icon_color=79F0FF)
+  
+</div>
 
-## 💻 Tecnologias
+## 💻 Linguagens Mais Usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorcaito&layout=compact&theme=dracula)
+<div align="center">
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victorcaito&layout=compact&theme=dracula&hide_border=true&bg_color=1a1b27&title_color=FF6B9D)
+  
+</div>
+
+## 🛠️ Tecnologias
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
