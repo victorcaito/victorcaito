@@ -2,37 +2,25 @@
 
 - 🏤 Cursando Full-Stack em Python no Instituto Proa
 - 📌 Em constante evolução.
-  
-## 👾 Status
-
-![Victor Varjão GitHub stats](https://github-readme-stats.vercel.app/api?username=victorcaito&show_icons=true&theme=dracula)
 
 ## 💻 Tecnologias
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorcaito&layout=compact&theme=dracula)
+[![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)](https://mariadb.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 
-<div style="display: inline_block">
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-100000?style=for-the-badge&logo=html5&logoColor=orange">
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-100000?style=for-the-badge&logo=javascript&logoColor=yellow">
-  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-100000?style=for-the-badge&logo=css3&logoColor=blue">
-  <img align="center" alt="MariaDB" src="https://img.shields.io/badge/MariaDB-100000?style=for-the-badge&logo=mariadb&logoColor=white">
-  <img align="center" alt="CSharp" src="https://img.shields.io/badge/C%23-100000?style=for-the-badge&logo=c-sharp&logoColor=green">
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=python&logoColor=blue">
-  <img align="center" alt="Git" src="https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git&logoColor=white">
-  <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-100000?style=for-the-badge&logo=bootstrap&logoColor=purple">
-  <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  <br><br>
-  <img alt="Visitors Count" src="https://visitcount.itsvg.in/api?id=victorcaito&label=Profile%20Views&color=6&icon=0&pretty=false">
-</div>
+## 📱 Conecte-se Comigo
 
-<div align="left" dir="auto">
-<br>
-"Os sonhos das pessoas não tem fim!? se eles não tem fim, porque que eu vou parar?"
-<br>
-<hr>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-leonardo-da-silva-varjão-927387281)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/victor.o.varjao?igshid=NGExMmI2YTkyZg==)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-leonardo-da-silva-varjão-927387281)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/victor.o.varjao?igshid=NGExMmI2YTkyZg==)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+---
 
-</div>
+> "Os sonhos das pessoas não tem fim!? se eles não tem fim, porque que eu vou parar?"
