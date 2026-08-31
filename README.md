@@ -1,6 +1,6 @@
 ### Olá, eu sou o Victor! 
 
-- 🏤 Cursando Técnico em Desenvolvimento de Sistemas na Etec Sapopemba
+- 🏤 Cursando Full-Stack em Python no Instituto Proa
 - 📌 Em constante evolução.
   
 ## 👾 Status
