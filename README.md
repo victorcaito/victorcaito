@@ -37,7 +37,7 @@
 
 ## 📱 Conecte-se Comigo
 
-<p align="center">
+<p align="end">
   <a href="https://www.linkedin.com/in/victor-leonardo-da-silva-varjão-927387281">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
