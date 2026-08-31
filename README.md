@@ -13,7 +13,7 @@
 
 ## 🛠️ Tecnologias
 
-<p align="center">
+<p align="start">
   <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -24,20 +24,19 @@
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
-
 <div align="center">
   <img align="right" width="24%" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="Codando">
 </div>
-
 <br>
-
-> "Os sonhos das pessoas não tem fim!? se eles não tem fim, porque que eu vou parar?"
-
+<br>
+<br>
+"Os sonhos das pessoas não tem fim!? se eles não tem fim, porque que eu vou parar?"
+<br>
 <hr>
-
+<br>
 ## 📱 Conecte-se Comigo
 
-<p align="end">
+<p align="start">
   <a href="https://www.linkedin.com/in/victor-leonardo-da-silva-varjão-927387281">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -50,5 +49,3 @@
 </p>
 
 ---
-
-*Desenvolvido com ❤️ por Victor Leonardo*
