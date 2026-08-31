@@ -3,7 +3,13 @@
 - 🏤 Cursando Full-Stack em Python no Instituto Proa
 - 📌 Em constante evolução.
 
+## 👾 Status
+
+![Victor Varjão GitHub stats](https://github-readme-stats.vercel.app/api?username=victorcaito&show_icons=true&theme=dracula)
+
 ## 💻 Tecnologias
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorcaito&layout=compact&theme=dracula)
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -15,12 +21,22 @@
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)](https://mariadb.org/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 
+<div align="center">
+  <img align="right" width="24%" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="Codando">
+</div>
+
+<div align="left" dir="auto">
+<br>
+
+> "Os sonhos das pessoas não tem fim!? se eles não tem fim, porque que eu vou parar?"
+
+<br>
+<hr>
+
 ## 📱 Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-leonardo-da-silva-varjão-927387281)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/victor.o.varjao?igshid=NGExMmI2YTkyZg==)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
 
----
-
-> "Os sonhos das pessoas não tem fim!? se eles não tem fim, porque que eu vou parar?"
+</div>
