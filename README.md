@@ -5,7 +5,7 @@
 
 ## 👾 Status
 
-<img src="https://github-readme-stats.vercel.app/api?username=victorcaito&show_icons=true&theme=dracula" alt="Victor's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=victorcaito&show_icons=true&theme=dracula" alt="VictorGitHubStats" />
 
 ## 📊 Linguagens Mais Usadas
 
@@ -38,7 +38,7 @@
 
 <p align="start">
   <a href="https://www.linkedin.com/in/victor-leonardo-da-silva-varjão-927387281">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="www.linkedin.com/in/victorleonardoz?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://instagram.com/victor.o.varjao?igshid=NGExMmI2YTkyZg==">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
