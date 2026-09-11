@@ -1,6 +1,4 @@
 ### Olá, eu sou o Victor! 
-<p>Em uma missão constante para aprender mais sobre o universo tech, criar projetos legais e evoluir um dia de cada vez.</p>
-
 - 🏤 Cursando Full-Stack em Python no Instituto Proa
 - 📌 Em constante evolução.
 
