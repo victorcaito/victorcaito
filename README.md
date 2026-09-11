@@ -31,8 +31,9 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
 <br>
-## 📈 Gráfico de Contribuições
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=victorcaito&theme=dracula&hide_border=true&area=true" alt="GitHub Activity Graph" />
+## 🏆 Conquistas
+
+<img src="https://github-profile-trophy.vercel.app/?username=victorcaito&theme=dracula&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
 <br>
 <div align="center">
   <img align="right" width="24%" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="Codando">
