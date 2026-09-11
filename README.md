@@ -3,9 +3,9 @@
 - 🏤 Cursando Full-Stack em Python no Instituto Proa
 - 📌 Em constante evolução.
 
-## 👾 Status
+## 🔥 Minhas Estatísticas
 
-<img src="https://github-readme-stats.vercel.app/api?username=victorcaito&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Victor's GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=victorcaito&theme=dracula&hide_border=false" alt="GitHub Streak" />
 
 ## 📊 Linguagens Mais Usadas
 
