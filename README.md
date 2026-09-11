@@ -58,3 +58,8 @@
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </p>
+<br>
+<br>
+<img data-importer="snake" src="https://raw.githubusercontent.com/victorcaito/victorcaito/snake-output/snake.svg" alt="Snake animation" />
+
+###
