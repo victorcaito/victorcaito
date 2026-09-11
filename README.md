@@ -7,10 +7,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=victorcaito&theme=dracula&hide_border=false" alt="GitHub Streak" />
 
-## 📊 Linguagens Mais Usadas
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorcaito&layout=compact&theme=dracula&langs_count=8" alt="Top Languages" />
-
 ## 🛠️ Tecnologias
 
 <p align="start">
