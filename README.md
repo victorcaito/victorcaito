@@ -30,11 +30,7 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
-<br>
-## 🏆 Conquistas
 
-<img src="https://github-profile-trophy.vercel.app/?username=victorcaito&theme=dracula&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
-<br>
 <div align="center">
   <img align="right" width="24%" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="Codando">
 </div>
