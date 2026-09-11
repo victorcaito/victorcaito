@@ -1,4 +1,5 @@
 ### Olá, eu sou o Victor! 
+<p>Em uma missão constante para aprender mais sobre o universo tech, criar projetos legais e evoluir um dia de cada vez.</p>
 
 - 🏤 Cursando Full-Stack em Python no Instituto Proa
 - 📌 Em constante evolução.
@@ -25,9 +26,14 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/UI%2FUX-FF4081?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
-
+<br>
+## 📈 Gráfico de Contribuições
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=victorcaito&theme=dracula&hide_border=true&area=true" alt="GitHub Activity Graph" />
+<br>
 <div align="center">
   <img align="right" width="24%" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="Codando">
 </div>
