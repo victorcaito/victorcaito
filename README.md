@@ -1,15 +1,7 @@
 ### Olá, eu sou o Victor! 
 - 🏤 Cursando Full-Stack em Python no Instituto Proa
 - 📌 Em constante evolução.
-
-## 🔥 Minhas Estatísticas
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=victorcaito&theme=gotham" width="33%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victorcaito&theme=gotham" width="33%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=victorcaito&theme=gotham" width="33%" />
-</p>
-
+- 
 ## 🛠️ Tecnologias
 
 <p align="start">
@@ -44,6 +36,16 @@
 "Os sonhos das pessoas não tem fim!? se eles não tem fim, porque que eu vou parar?"
 <br>
 <hr>
+<br>
+
+## 🔥 Minhas Estatísticas
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=victorcaito&theme=gotham" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victorcaito&theme=gotham" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=victorcaito&theme=gotham" width="33%" />
+</p>
+
 <br>
 
 ## 📱 Conecte-se Comigo
