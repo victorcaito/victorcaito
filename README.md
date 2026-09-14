@@ -4,7 +4,11 @@
 
 ## 🔥 Minhas Estatísticas
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=victorcaito&theme=dracula&hide_border=false" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=victorcaito&theme=gotham" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victorcaito&theme=gotham" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=victorcaito&theme=gotham" width="33%" />
+</p>
 
 ## 🛠️ Tecnologias
 
