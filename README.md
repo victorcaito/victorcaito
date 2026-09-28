@@ -1,7 +1,7 @@
 ### Olá, eu sou o Victor! 
 - 🏤 Cursando Full-Stack em Python no Instituto Proa
 - 💤 Aprendendo algo novo
-- ⚠ Em evolução
+- ⚠ Técnico em Desenvolvimento de Sistemas
 
 ## 🛠️ Tecnologias
 
