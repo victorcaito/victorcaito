@@ -43,7 +43,7 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=victorcaito&theme=gotham" width="33%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victorcaito&theme=gotham" width="33%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victorcaito&theme=gotham&langs_count=6" width="33%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=victorcaito&theme=gotham" width="33%" />
 </p>
 
