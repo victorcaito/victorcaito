@@ -59,9 +59,10 @@
   </a>
 </p>
 <br>
-<p align="center">
+ <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?palette=github-dark">
-    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?color_snake=orange" alt="Snake Animation">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?user=victorcaito&palette=github-dark">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?user=victorcaito&color_snake=orange" alt="Snake Animation">
   </picture>
+</p>
 </p>
