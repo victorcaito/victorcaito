@@ -15,7 +15,6 @@
 
 </div>
 
----
 
 ## 👨‍💻 Sobre mim
 
@@ -30,7 +29,6 @@ Busco evoluir constantemente por meio dos estudos, da prática e do desenvolvime
 - 🌐 Explorando o desenvolvimento Full-Stack
 - 💡 Aprendendo na prática por meio de projetos e desafios
 
----
 
 ## 🛠️ Tecnologias e ferramentas
 
@@ -40,7 +38,6 @@ Busco evoluir constantemente por meio dos estudos, da prática e do desenvolvime
 
 </div>
 
----
 
 ## 📊 Estatísticas do GitHub
 
@@ -56,7 +53,6 @@ Busco evoluir constantemente por meio dos estudos, da prática e do desenvolvime
 
 </div>
 
----
 
 ## 🐍 Minhas contribuições
 
@@ -66,7 +62,6 @@ Busco evoluir constantemente por meio dos estudos, da prática e do desenvolvime
 
 </div>
 
----
 
 ## 🌐 Vamos nos conectar?
 
