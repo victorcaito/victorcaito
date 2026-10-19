@@ -7,12 +7,13 @@
     <b>Transformando ideias em projetos, um código de cada vez.</b>
   </p>
 
-  <img src="https://img.shields.io/badge/Desenvolvimento-Web-FF7A18?style=flat-square" alt="Desenvolvimento Web" />
-  <img src="https://img.shields.io/badge/Estudando-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Estudando Python" />
-  <img src="https://img.shields.io/badge/Status-Sempre%20aprendendo-2EA44F?style=flat-square" alt="Sempre aprendendo" />
-
+<div align="center">
+  <img src="https://img.shields.io/badge/Área-Desenvolvimento%20Web-161B22?style=for-the-badge&logo=code&logoColor=FF7A18" alt="Desenvolvimento Web" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Estudando-Python-161B22?style=for-the-badge&logo=python&logoColor=3776AB" alt="Estudando Python" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Em%20evolução-161B22?style=for-the-badge&logo=github&logoColor=2EA44F" alt="Em evolução constante" />
 </div>
-
 
 ## 👨‍💻 Sobre mim
 
