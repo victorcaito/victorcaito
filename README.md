@@ -3,8 +3,8 @@
 - 💤 Aprendendo algo novo
 - 🧠 Técnico em Desenvolvimento de Sistemas
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=victorcaito&"  />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=victorcaito" alt="Visualizações do perfil" />
 </div>
 
 ## 🛠️ Tecnologias
