@@ -13,7 +13,6 @@
 
 </div>
 
----
 
 ## 👨‍💻 Sobre mim
 
@@ -24,12 +23,9 @@ Tenho interesse em programação, desenvolvimento web e criação de soluções 
 Estou sempre buscando aprender novas tecnologias, desenvolver projetos práticos e evoluir como profissional.
 
 - 🎓 Técnico em Desenvolvimento de Sistemas
-- 🐍 Aprofundando meus conhecimentos em Python
 - 🌐 Explorando o desenvolvimento Full-Stack
 - 💡 Aprendendo por meio de projetos e desafios
-- 🎯 Objetivo: crescer profissionalmente na área de tecnologia
 
----
 
 ## 🛠️ Tecnologias e ferramentas
 
@@ -39,7 +35,6 @@ Estou sempre buscando aprender novas tecnologias, desenvolver projetos práticos
 
 </div>
 
----
 
 ## 📊 Estatísticas do GitHub
 
@@ -57,7 +52,6 @@ Estou sempre buscando aprender novas tecnologias, desenvolver projetos práticos
 
 </div>
 
----
 
 ## 🐍 Minhas contribuições
 
@@ -67,13 +61,9 @@ Estou sempre buscando aprender novas tecnologias, desenvolver projetos práticos
 
 </div>
 
----
 
 ## 🌐 Vamos nos conectar?
 
-<div align="center">
-
-  
 <div align="center">
   <a href="https://www.linkedin.com/in/victorleonardoz/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
