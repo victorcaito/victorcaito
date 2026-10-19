@@ -73,12 +73,16 @@ Estou sempre buscando aprender novas tecnologias, desenvolver projetos práticos
 
 <div align="center">
 
+  
+<div align="center">
   <a href="https://www.linkedin.com/in/victorleonardoz/">
-    <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-FF7A18?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/victorcaito">
-    <img src="https://img.shields.io/badge/GitHub-Meus%20projetos-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+</div>
 
   <br /><br />
 
