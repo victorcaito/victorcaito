@@ -1,126 +1,87 @@
-<!-- README.md - Versão limpa, premium, com tema claro/escuro e animações sutis -->
+
 <div align="center">
-  <svg width="100%" height="120" viewBox="0 0 1200 120" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" style="max-width:720px;margin:28px 0">
-    <defs>
-      <linearGradient id="g" x1="0" x2="1">
-        <stop offset="0%" stop-color="#ff7a18">
-          <animate attributeName="stop-color" values="#ff7a18;#ff5a7a;#6a11cb;#ff7a18" dur="8s" repeatCount="indefinite" />
-        </stop>
-        <stop offset="100%" stop-color="#6a11cb">
-          <animate attributeName="stop-color" values="#6a11cb;#18a0ff;#ff5a7a;#6a11cb" dur="8s" repeatCount="indefinite" />
-        </stop>
-      </linearGradient>
-      <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
-        <feDropShadow dx="0" dy="8" stdDeviation="16" flood-opacity="0.12" />
-      </filter>
-    </defs>
-    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" font-family:"-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial" font-size="46" fill="url(#g)" style="font-weight:700;filter:url(#shadow);">
-      Victor Leonardo
-    </text>
-  </svg>
 
-  <p style="margin:6px 0 18px;color:var(--muted);font-family:system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;">
-    Olá — eu sou o Victor! 👋 · Técnico em Desenvolvimento de Sistemas · Cursando Full‑Stack em Python
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=1000&color=FF7A18&center=true&vCenter=true&repeat=true&width=650&height=60&lines=Victor+Leonardo;Desenvolvedor+em+forma%C3%A7%C3%A3o;Full-Stack+%7C+Python+%7C+Web+Development" alt="Apresentação animada de Victor Leonardo" />
+
+  <p>
+    <b>Transformando ideias em projetos, um código de cada vez.</b>
   </p>
+
+  <img src="https://img.shields.io/badge/Desenvolvimento-Web-FF7A18?style=flat-square" alt="Desenvolvimento Web" />
+  <img src="https://img.shields.io/badge/Estudando-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Estudando Python" />
+  <img src="https://img.shields.io/badge/Status-Sempre%20aprendendo-2EA44F?style=flat-square" alt="Sempre aprendendo" />
+
 </div>
 
-<style>
-:root{
-  --bg:#ffffff; --card:#f7f7fb; --text:#0b1220; --muted:#556; --accent:#ff7a18;
-}
-@media (prefers-color-scheme: dark){
-  :root{ --bg:#0b0f14; --card:#0f1620; --text:#e6eef8; --muted:#9aa6b2; --accent:#6a11cb; }
-}
-body{background:var(--bg); color:var(--text)}
-.readme-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:18px;align-items:start;margin:18px 0}
-.card{background:var(--card);border-radius:12px;padding:18px;box-shadow:0 6px 20px rgba(2,6,23,0.06);transition:transform .28s ease,box-shadow .28s ease}
-.card:hover{transform:translateY(-6px);box-shadow:0 18px 40px rgba(2,6,23,0.12)}
-.techs{display:flex;gap:12px;flex-wrap:wrap;align-items:center;justify-content:center}
-.techs img{width:40px;height:40px;filter:grayscale(0.08);transition:transform .22s ease,filter .22s}
-.techs img:hover{transform:translateY(-6px);filter:grayscale(0)}
-.center{display:flex;align-items:center;justify-content:center}
-.bio{line-height:1.5;color:var(--muted);}
-.fade-in{animation:fade .9s ease both}
-@keyframes fade{from{opacity:0;transform:translateY(6px)} to{opacity:1;transform:none}}
-.contact a{margin:6px;display:inline-block}
-.small-muted{font-size:13px;color:var(--muted)}
-.repo-cards{display:flex;gap:12px;flex-wrap:wrap;justify-content:center}
-.repo-card{min-width:190px;max-width:260px}
-</style>
+---
 
-<div class="readme-grid">
-  <div class="card fade-in">
-    <h3 style="margin:0 0 8px">Sobre</h3>
-    <p class="bio" style="margin:0">Sou desenvolvedor full‑stack em formação, com foco em interfaces funcionais, experiência do usuário e aprendizado contínuo. Gosto de construir coisas simples e úteis, e explorar novas ferramentas para entregar soluções elegantes.</p>
-  </div>
+## 👨‍💻 Sobre mim
 
-  <div class="card fade-in">
-    <h3 style="margin:0 0 8px">Tecnologias</h3>
-    <div class="techs" style="margin-top:8px">
-      <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-      <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-      <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-      <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-      <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-      <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-      <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-      <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-      <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-    </div>
-  </div>
+Olá! Sou Victor Leonardo, técnico em Desenvolvimento de Sistemas e atualmente em formação na área de Full-Stack com Python.
 
-  <div class="card fade-in center">
-    <div style="text-align:center;">
-      <h3 style="margin:0 0 8px">Estatísticas</h3>
-      <div style="display:flex;gap:10px;justify-content:center;flex-wrap:wrap;margin-top:10px">
-        <img alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=victorcaito&theme=default" style="width:220px;border-radius:8px" />
-        <img alt="Linguagens" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victorcaito&theme=default&langs_count=6" style="width:220px;border-radius:8px" />
-      </div>
-    </div>
-  </div>
+Tenho interesse em programação, desenvolvimento web e criação de soluções que unam funcionalidade e uma boa experiência para o usuário.
+
+Estou sempre buscando aprender novas tecnologias, desenvolver projetos práticos e evoluir como profissional.
+
+- 🎓 Técnico em Desenvolvimento de Sistemas
+- 🐍 Aprofundando meus conhecimentos em Python
+- 🌐 Explorando o desenvolvimento Full-Stack
+- 💡 Aprendendo por meio de projetos e desafios
+- 🎯 Objetivo: crescer profissionalmente na área de tecnologia
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,nodejs,git,github,docker,vscode&theme=dark" alt="Tecnologias e ferramentas" />
+
 </div>
 
-<div style="margin-top:8px" class="card fade-in">
-  <h3 style="margin:0 0 12px;text-align:center">Contribuições</h3>
-  <div class="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?user=victorcaito&repo=victorcaito&color_snake=orange" />
-      <img alt="Contribuições" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?user=victorcaito&repo=victorcaito&color_snake=orange" style="max-width:100%;height:auto;border-radius:10px;" />
-    </picture>
-  </div>
-  <p class="small-muted center" style="margin-top:8px">Snake das contribuições — versão corrigida (clique para ver o repositório)</p>
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=victorcaito&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF7A18&icon_color=FF7A18&text_color=C9D1D9&rank_icon=github&include_all_commits=true" alt="Estatísticas do GitHub" />
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorcaito&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF7A18&text_color=C9D1D9&langs_count=8" alt="Linguagens mais utilizadas" />
+
 </div>
 
-<div class="card fade-in">
-  <h3 style="margin:0 0 8px">Projetos em destaque</h3>
-  <div class="repo-cards" style="margin-top:8px">
-    <a class="repo-card" href="https://github.com/victorcaito" target="_blank" rel="noopener">
-      <div style="padding:12px;border-radius:10px;background:linear-gradient(90deg,rgba(255,122,24,0.06),rgba(106,17,203,0.04));">
-        <strong>Meu GitHub</strong>
-        <div class="small-muted">Repositórios, experimentos e projetos pessoais</div>
-      </div>
-    </a>
-    <!-- Adicione cards de projetos específicos se quiser -->
-  </div>
+<div align="center">
+
+  <img width="70%" src="https://streak-stats.demolab.com?user=victorcaito&theme=transparent&hide_border=true&ring=FF7A18&fire=FF7A18&currStreakLabel=FF7A18&sideLabels=C9D1D9&dates=8B949E" alt="Sequência de contribuições" />
+
 </div>
 
-<div class="card fade-in contact center" style="margin-top:14px;padding:14px">
-  <div>
-    <div style="margin-bottom:10px;text-align:center"><strong>Contato</strong></div>
-    <div style="display:flex;gap:8px;align-items:center;justify-content:center;flex-wrap:wrap">
-      <a href="https://www.linkedin.com/in/victorleonardoz/" target="_blank" rel="noopener">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-      </a>
-      <a href="mailto:victorvarjao.18@gmail.com">
-        <img src="https://img.shields.io/badge/E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
-      </a>
-      <a href="https://github.com/victorcaito" target="_blank" rel="noopener">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-      </a>
-    </div>
-  </div>
+---
+
+## 🐍 Minhas contribuições
+
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/victorcaito/victorcaito/output/github-contribution-grid-snake-dark.svg" alt="Animação Snake das contribuições do GitHub" width="100%" />
+
 </div>
 
-<p style="text-align:center;margin-top:14px;font-style:italic;color:var(--muted)">"Construir coisas simples e úteis é a melhor forma de aprender."</p>
+---
 
-<p style="text-align:center;margin-top:6px;color:var(--muted);font-size:12px">Versão limpa e premium — tema automático claro/escuro. Posso ajustar tipografia, animações ou adicionar cards de projetos — diga o que prefere.</p>
+## 🌐 Vamos nos conectar?
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/victorleonardoz/">
+    <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-FF7A18?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/victorcaito">
+    <img src="https://img.shields.io/badge/GitHub-Meus%20projetos-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+  <br /><br />
+
+  <i>"Construir coisas simples e úteis é a melhor forma de aprender."</i>
+
+</div>
