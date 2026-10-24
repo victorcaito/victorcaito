@@ -77,6 +77,4 @@ Busco evoluir constantemente por meio dos estudos, da prática e do desenvolvime
 
   <br /><br />
 
-  <i>"Construir coisas simples e úteis é a melhor forma de aprender."</i>
-
 </div>
