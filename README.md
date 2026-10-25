@@ -62,8 +62,6 @@ Busco evoluir constantemente por meio dos estudos, da prática e do desenvolvime
 
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=victorcaito&color=FF7A18&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL" alt="Visualizações do perfil" />
-
 ## 🌐 Vamos nos conectar?
 
 <div align="center">
@@ -77,5 +75,7 @@ Busco evoluir constantemente por meio dos estudos, da prática e do desenvolvime
   </a>
 
   <br /><br />
+
+  <img src="https://komarev.com/ghpvc/?username=victorcaito&color=FF7A18&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL" alt="Visualizações do perfil" />
 
 </div>
