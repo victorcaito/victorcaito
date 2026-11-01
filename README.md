@@ -63,6 +63,7 @@ Meu objetivo é continuar evoluindo tecnicamente, desenvolver projetos cada vez 
   />
 
 </div>
+
 ## 🐍 Minhas contribuições
 
 <div align="center">
