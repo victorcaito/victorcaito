@@ -46,7 +46,7 @@ Busco evoluir constantemente por meio dos estudos, da prática e do desenvolvime
   <img
     src="./github-metrics.svg"
     alt="GitHub Analytics"
-    width="80%"
+    width="100%"
   />
 
 </div>
