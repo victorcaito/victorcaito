@@ -43,13 +43,7 @@ Busco evoluir constantemente por meio dos estudos, da prática e do desenvolvime
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=victorcaito&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF7A18&icon_color=FF7A18&text_color=C9D1D9&rank_icon=github&include_all_commits=true" alt="Estatísticas do GitHub" />
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorcaito&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF7A18&text_color=C9D1D9&langs_count=10" alt="Linguagens mais utilizadas" />
-
-  <br />
-
-  <img width="70%" src="https://streak-stats.demolab.com?user=victorcaito&theme=transparent&hide_border=true&ring=FF7A18&fire=FF7A18&currStreakLabel=FF7A18&sideLabels=C9D1D9&dates=8B949E" alt="Sequência de contribuições" />
+  <img src="./github-metrics.svg" alt="Estatísticas do GitHub" width="100%" />
 
 </div>
 
