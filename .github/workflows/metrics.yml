@@ -25,7 +25,7 @@ jobs:
           filename: github-metrics.svg
 
           template: classic
-          base: header, activity, community, repositories
+          base: header, activity, repositories
 
           config_display: columns
           config_theme: github_dark
