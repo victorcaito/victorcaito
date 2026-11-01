@@ -39,34 +39,43 @@ Busco evoluir constantemente por meio dos estudos, da prática e do desenvolvime
 </div>
 
 
+
 ## 📊 Meus Resultados
 
 <div align="center">
 
-  <!-- Estatísticas e linguagens lado a lado -->
+  <!-- Estatísticas gerais -->
   <img
-    height="165"
-    width="49%"
-    src="https://github-stats-extended.vercel.app/api?username=victorcaito&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF7A18&icon_color=FF7A18&text_color=C9D1D9"
+    width="95%"
+    src="https://github-stats-extended.vercel.app/api?username=victorcaito&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF7A18&icon_color=FF7A18&text_color=C9D1D9&card_width=850"
     alt="GitHub Statistics"
-  />
-  <img
-    height="165"
-    width="49%"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=victorcaito&layout=donut&hide_border=true&bg_color=0D1117&title_color=FF7A18&text_color=C9D1D9&langs_count=5"
-    alt="Top Languages"
   />
 
   <br/><br/>
 
-  <!-- Gráfico centralizado -->
+  <!-- Linguagens + Commits -->
   <img
-    width="80%"
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=victorcaito&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF7A18&text_color=C9D1D9&langs_count=5&card_width=430"
+    alt="Top Languages"
+  />
+  <img
+    width="49%"
+    src="https://raw.githubusercontent.com/victorcaito/victorcaito/output/commits-365d.svg"
+    alt="Commit Activity - Last 365 Days"
+  />
+
+  <br/><br/>
+
+  <!-- Sequência de contribuições -->
+  <img
+    width="85%"
     src="https://streak-stats.demolab.com/?user=victorcaito&hide_border=true&background=0D1117&ring=FF7A18&fire=FF7A18&currStreakLabel=FF7A18&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FF7A18&sideNums=C9D1D9"
     alt="GitHub Contribution Streak"
   />
 
 </div>
+
 
 ## 🐍 Minhas contribuições
 
