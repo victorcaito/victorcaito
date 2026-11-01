@@ -31,7 +31,7 @@ jobs:
           config_theme: github_dark
           config_timezone: America/Sao_Paulo
           config_padding: 4
-          config_order: activity, repositories, languages, isocalendar
+          config_order: base.activity, base.repositories, languages, isocalendar
 
           plugin_languages: yes
           plugin_languages_limit: 5
