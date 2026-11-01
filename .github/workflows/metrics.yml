@@ -32,4 +32,4 @@ jobs:
 
           plugin_languages: yes
           plugin_languages_limit: 6
-          plugin_isocalendar: yes
+          plugin_languages_details: percentage
