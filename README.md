@@ -39,11 +39,34 @@ Busco evoluir constantemente por meio dos estudos, da prática e do desenvolvime
 </div>
 
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Analytics
 
 <div align="center">
 
- <img src="./metrics-languages.svg" width="32%" />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=victorcaito&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF7A18&icon_color=FF7A18&text_color=C9D1D9"
+    alt="GitHub Statistics"
+  />
+  
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorcaito&layout=donut&hide_border=true&bg_color=0D1117&title_color=FF7A18&text_color=C9D1D9&langs_count=5"
+    alt="Top Languages"
+  />
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=victorcaito&bg_color=0D1117&color=C9D1D9&line=FF7A18&point=FF7A18&area=true&hide_border=true"
+    alt="GitHub Contribution Activity Graph"
+  />
+
 </div>
 
 
