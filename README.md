@@ -1,5 +1,4 @@
-
-<div align="center">
+ <div align="center">
 
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=1000&color=FF7A18&center=true&vCenter=true&repeat=true&width=650&height=60&lines=Victor+Leonardo;Desenvolvedor+em+forma%C3%A7%C3%A3o;Full-Stack+%7C+Python+%7C+Web+Development" alt="Apresentação animada de Victor Leonardo" />
 
@@ -15,20 +14,20 @@
 
 </div>
 
+---
 
 ## 👨‍💻 Sobre mim
 
-Olá! Sou Victor Leonardo, técnico em Desenvolvimento de Sistemas e atualmente estou me aprofundando no desenvolvimento Full-Stack com Python.
+Sou técnico em Desenvolvimento de Sistemas e atualmente estou ampliando meus conhecimentos em desenvolvimento Full-Stack com Python, por meio dos estudos e da prática.
 
-Tenho interesse em programação, desenvolvimento web e criação de soluções que unam funcionalidade, criatividade e uma boa experiência para o usuário.
+Tenho interesse em desenvolvimento de software, tecnologias web e criação de soluções digitais. Gosto de explorar novas ferramentas, compreender como as tecnologias funcionam e transformar conhecimentos em projetos práticos.
 
-Busco evoluir constantemente por meio dos estudos, da prática e do desenvolvimento de novos projetos.
+Meu objetivo é continuar evoluindo tecnicamente, desenvolver projetos cada vez mais completos e construir minha trajetória profissional na área de tecnologia.
 
 - 🎓 Técnico em Desenvolvimento de Sistemas
-- 🐍 Aprofundando meus conhecimentos em Python
-- 🌐 Explorando o desenvolvimento Full-Stack
-- 💡 Aprendendo na prática por meio de projetos e desafios
-
+- 🐍 Formação em desenvolvimento Full-Stack com Python
+- 💻 Interesse em desenvolvimento Web e Software
+- 🚀 Aprendizado contínuo e desenvolvimento de projetos práticos
 
 ## 🛠️ Tecnologias e ferramentas
 
@@ -38,31 +37,20 @@ Busco evoluir constantemente por meio dos estudos, da prática e do desenvolvime
 
 </div>
 
-
-
 ## 📊 Meus Resultados
 
 <div align="center">
-
-  <!-- Estatísticas gerais -->
+  <!-- Linguagens mais utilizadas -->
   <img
-    width="95%"
-    src="https://github-stats-extended.vercel.app/api?username=victorcaito&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF7A18&icon_color=FF7A18&text_color=C9D1D9&card_width=850"
-    alt="GitHub Statistics"
-  />
-
-  <br/><br/>
-
-  <!-- Linguagens + Commits -->
-  <img
-    width="49%"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=victorcaito&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF7A18&text_color=C9D1D9&langs_count=5&card_width=430"
+    width="48%"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=victorcaito&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF7A18&text_color=C9D1D9&langs_count=5"
     alt="Top Languages"
   />
+  <!-- GitHub Streak -->
   <img
-    width="49%"
-    src="https://raw.githubusercontent.com/victorcaito/victorcaito/output/commits-365d.svg"
-    alt="Commit Activity - Last 365 Days"
+    width="48%"
+    src="https://github-stats-extended.vercel.app/api?username=victorcaito&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF7A18&icon_color=FF7A18&text_color=C9D1D9"
+    alt="GitHub Statistics"
   />
 
   <br/><br/>
@@ -75,8 +63,6 @@ Busco evoluir constantemente por meio dos estudos, da prática e do desenvolvime
   />
 
 </div>
-
-
 ## 🐍 Minhas contribuições
 
 <div align="center">
@@ -97,7 +83,7 @@ Busco evoluir constantemente por meio dos estudos, da prática e do desenvolvime
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
-  <br /><br />
+  <br/><br/>
 
   <img src="https://komarev.com/ghpvc/?username=victorcaito&color=FF7A18&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL" alt="Visualizações do perfil" />
 
