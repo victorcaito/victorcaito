@@ -43,12 +43,7 @@ Busco evoluir constantemente por meio dos estudos, da prática e do desenvolvime
 
 <div align="center">
 
-  <img
-    src="./github-metrics.svg"
-    alt="GitHub Analytics"
-    width="100%"
-  />
-
+ <img src="./metrics-languages.svg" width="32%" />
 </div>
 
 
