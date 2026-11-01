@@ -43,32 +43,32 @@ Busco evoluir constantemente por meio dos estudos, da prática e do desenvolvime
 
 <div align="center">
 
+  <!-- GitHub Statistics -->
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=victorcaito&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF7A18&icon_color=FF7A18&text_color=C9D1D9"
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api?username=victorcaito&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF7A18&icon_color=FF7A18&text_color=C9D1D9"
     alt="GitHub Statistics"
   />
-  
+
+  <!-- Top Languages -->
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorcaito&layout=donut&hide_border=true&bg_color=0D1117&title_color=FF7A18&text_color=C9D1D9&langs_count=5"
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=victorcaito&layout=donut&hide_border=true&bg_color=0D1117&title_color=FF7A18&text_color=C9D1D9&langs_count=5"
     alt="Top Languages"
   />
 
-</div>
+  <br/><br/>
 
-<br>
-
-<div align="center">
-
+  <!-- GitHub Streak -->
   <img
-    width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=victorcaito&bg_color=0D1117&color=C9D1D9&line=FF7A18&point=FF7A18&area=true&hide_border=true"
-    alt="GitHub Contribution Activity Graph"
+    width="80%"
+    src="https://streak-stats.demolab.com/?user=victorcaito&hide_border=true&background=0D1117&ring=FF7A18&fire=FF7A18&currStreakLabel=FF7A18&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FF7A18&sideNums=C9D1D9"
+    alt="GitHub Contribution Streak"
   />
 
 </div>
-
 
 ## 🐍 Minhas contribuições
 
