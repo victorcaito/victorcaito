@@ -26,7 +26,9 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
 
-          plugin_languages: yes
-          plugin_isocalendar: yes
-
           config_timezone: America/Sao_Paulo
+
+          # Gráfico 1 - Linguagens
+          plugin_languages: yes
+          plugin_languages_limit: 5
+          plugin_languages_details: bytes-size, percentage
