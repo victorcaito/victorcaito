@@ -28,10 +28,7 @@ jobs:
           base: header, activity, community, repositories
 
           config_theme: github_dark
-          config_display: large
           config_timezone: America/Sao_Paulo
-          config_padding: 6
-          config_scale: 0.8
 
           plugin_languages: yes
           plugin_languages_limit: 6
