@@ -21,19 +21,12 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: victorcaito
-
           filename: github-metrics.svg
 
           template: classic
-          base: activity, repositories
-
-          config_display: columns
-          config_theme: github_dark
-          config_timezone: America/Sao_Paulo
-          config_padding: 4
+          base: header, activity, community, repositories, metadata
 
           plugin_languages: yes
-          plugin_languages_limit: 5
-          plugin_languages_details: percentage
-
           plugin_isocalendar: yes
+
+          config_timezone: America/Sao_Paulo
