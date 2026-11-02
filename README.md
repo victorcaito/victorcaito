@@ -57,7 +57,7 @@ Meu objetivo é continuar evoluindo tecnicamente, desenvolver projetos cada vez 
 
   <!-- Sequência de contribuições -->
   <img
-    width="85%"
+    width="80%"
     src="https://streak-stats.demolab.com/?user=victorcaito&hide_border=true&background=0D1117&ring=FF7A18&fire=FF7A18&currStreakLabel=FF7A18&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FF7A18&sideNums=C9D1D9"
     alt="GitHub Contribution Streak"
   />
