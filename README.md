@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=1000&color=FF7A18&center=true&vCenter=true&repeat=true&width=650&height=60&lines=Victor+Leonardo;Desenvolvedor+em+forma%C3%A7%C3%A3o;Full-Stack+%7C+Python+%7C+Web+Development" alt="Apresentação animada de Victor Leonardo" />
 
   <p>
-    <strong>Transformando ideias em projetos, um código de cada vez.</strong>
+    <strong>Transformando ideias em projetos.</strong>
   </p>
 
   <img src="https://img.shields.io/badge/ÁREA-DESENVOLVIMENTO%20WEB-161B22?style=for-the-badge&logo=code&logoColor=FF7A18" alt="Desenvolvimento Web" />
